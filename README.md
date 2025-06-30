@@ -18,11 +18,10 @@ This repository contains:
 
 ## 📂 Repo Structure
 
-📁 framework/ → Details on the framework
-📁 presentation/ → Slide deck presented at DevRelCon NY 2025 showcasing the framework
-📁 examples/ → Visuals and editable files for each framework variation
-LICENSE → CC BY-NC 4.0 License
-README.md → You’re here
+- `framework/` – Draw.io + PNGs of each framework variation  
+- `presentation/` – Slide deck (PDF + PPTX if included)  
+- `LICENSE` – CC BY-NC 4.0 License  
+- `README.md` – You’re here
 
 ## 🗣 Feedback Welcome
 
