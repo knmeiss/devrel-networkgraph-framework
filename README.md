@@ -8,7 +8,7 @@ A visual framework for understanding and communicating the internal complexity a
 
 This repository contains:
 
-- The presentation from my [DevRelCon NY 2025 talk](https://docs.google.com/presentation/d/1t3M_Qy__lAfB3vsM5rnt0dKi1Z4W-kHPBpjSgqdc53Q/edit?usp=sharing)
+- The presentation from my talk at DevRelCon 2025
 - Visual examples of each variation the framework
 - Editable files so you can adapt the model for your own organization
 
@@ -21,7 +21,8 @@ This repository contains:
 ## 📂 Repo Structure
 
 - `framework/` – Draw.io + PNGs of each framework variation  
-- `presentation/` – Slide deck  
+- `presentation/` – Slide deck presented at DevRelCon 2025
+- `images/` - Repository images
 - `LICENSE` – CC BY-NC 4.0 License  
 - `README.md` – You’re here
 
