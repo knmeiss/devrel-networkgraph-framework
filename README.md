@@ -4,10 +4,7 @@
 ## 🧠 What This Is
 A visual framework for understanding and communicating the internal complexity and cross-functional nature of Developer Relations (DevRel). Built to help DevRel teams align with stakeholders, plan strategically, and demonstrate impact more clearly.
 
-**W**orkflows
-**O**wnership
-**R**elationships
-**M**aturity
+![Alt Text](images/worm.png)
 
 This repository contains:
 
