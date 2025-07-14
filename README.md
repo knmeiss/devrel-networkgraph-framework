@@ -21,7 +21,7 @@ This repository contains:
 ## 📂 Repo Structure
 
 - `framework/` – Draw.io + PNGs of each framework variation  
-- `presentation/` – Slide deck (PDF + PPTX if included)  
+- `presentation/` – Slide deck  
 - `LICENSE` – CC BY-NC 4.0 License  
 - `README.md` – You’re here
 
