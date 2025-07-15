@@ -1,26 +1,26 @@
-# DevRel WORM Framework
+# DevRel WORM Model
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 ## 🧠 What This Is
-A visual framework for understanding and communicating the internal complexity and cross-functional nature of Developer Relations (DevRel). Built to help DevRel teams align with stakeholders, plan strategically, and demonstrate impact more clearly.
+A visual model for understanding and communicating the internal complexity and cross-functional nature of Developer Relations (DevRel). Built to help DevRel teams align with stakeholders, plan strategically, and demonstrate impact more clearly.
 
 ![Alt Text](images/worm.png)
 
 This repository contains:
 
 - The presentation from my talk at DevRelCon 2025
-- Visual examples of each variation the framework
+- Visual examples of each variation the model
 - Editable files so you can adapt the model for your own organization
 
 ## 🚀 How to Use It
 
-1. **Browse the `/framework` folder** for images and source files
+1. **Browse the `/model` folder** for images and source files
 2. **Download** the .drawio file for the template you would like to edit
-3. **Open** the downloaded file in [draw.io](https://draw.io) or diagrams.net to adapt the framework
+3. **Open** the downloaded file in [draw.io](https://draw.io) or diagrams.net to adapt the model
 
 ## 📂 Repo Structure
 
-- `framework/` – Draw.io + PNGs of each framework variation  
+- `model/` – Draw.io + PNGs of each model variation  
 - `presentation/` – Slide deck presented at DevRelCon 2025
 - `images/` - Repository images
 - `LICENSE` – CC BY-NC 4.0 License  
@@ -28,11 +28,11 @@ This repository contains:
 
 ## 🗣 Feedback Welcome
 
-If you use this framework, or even just sit with it for a bit, I'd love your feedback.
+If you use this model, or even just sit with it for a bit, I'd love your feedback.
 What made sense? What didn't? What did/would you add or change? 
 I truly believe this kind of work gets better when it’s shared and tested in the real world. This isn’t a final answer—it’s a living tool.
 
-- Open an [issue](https://github.com/knmeiss/devrel-framework/issues)
+- Open an [issue](https://github.com/knmeiss/devrel-worm-model/issues)
 - Tell me your thoughts directly via [email](mailto:knmeiss@gmail.com) (knmeiss [at] gmail [dot] com)
 - Suggest improvements via pull request
 
