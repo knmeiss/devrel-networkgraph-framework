@@ -8,7 +8,7 @@ A visual model for understanding and communicating the internal complexity and c
 
 This repository contains:
 
-- The presentation from my talk at DevRelCon 2025
+- The [presentation](https://docs.google.com/presentation/d/1t3M_Qy__lAfB3vsM5rnt0dKi1Z4W-kHPBpjSgqdc53Q/edit?usp=sharing) from my talk at DevRelCon 2025
 - Visual examples of each variation the model
 - Editable files so you can adapt the model for your own organization
 
